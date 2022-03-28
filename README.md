@@ -4,5 +4,6 @@ Clash Royla cards deck associations (found with fp-tree growth) visualised with 
 
 page: https://awarno.github.io/ClashRoyalAssociations/
 
-![][ClashRoyalAss.png]
+![alt text](ClashRoyalAss.png)
+
 
